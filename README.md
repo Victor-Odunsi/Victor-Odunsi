@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m passionate about exploring data science, machine learning, and AI to solve real-world problems, particularly in healthcare.
+Data science got me into AI, backend engineering got me into production. Now I do both.
 
 
 ## 🌐 Socials:
